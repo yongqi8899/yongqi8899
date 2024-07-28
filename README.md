@@ -51,6 +51,8 @@
 <a href="https://www.adobe.com/products/indesign.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/pheralb/svgl/5c82f5c8ee850fe1ae505978ae50296c9f5a6f29/static/library/indesign.svg" alt="indesign" style="margin: 10px"  width="40" height="40"/></a>
 <a href="https://lightroom.adobe.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/29e8719bf78915c7a82a26a6c203f53c4cb8fff2/logos/adobe-lightroom.svg" alt="lightroom" style="margin: 10px"  width="40" height="40"/></a>
 <a href="https://www.blender.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/blender.svg" alt="blender" style="margin: 10px"  width="40" height="40"/></a>
+<a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"><img src="https://iconape.com/wp-content/png_logo_vector/solidworks-logo.png" alt="solidworks" style="margin: 10px"  width="40" height="40"/></a>
+<a href="https://web.autocad.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/AutoCad_new_logo.svg" alt="AutoCad" style="margin: 10px"  width="40" height="40"/></a>
 </div>
 
 </td></tr></table>
