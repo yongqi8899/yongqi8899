@@ -2,7 +2,7 @@
 <div align="center">I am a fullstack developer and designer based in Berlin, Germany</div>
 
 
-#### <div align="center">My tools of trade</div>
+#### <div align="center">My tools</div>
 
 <table><tr><td valign="top" width="33%" >
 
