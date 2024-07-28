@@ -80,9 +80,6 @@
 #### <div align="center">Connect with me</div>
 
 <div align="center">
-<a href="https://github.com/yongqi8899" alt="yongqi zhang" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github  height="40"/>
-</a>
 <a href="https://www.linkedin.com/in/yongqi-zhang/" alt="yongqi zhang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yongqi-zhang" height="40"  /></a>
 </div>
 
