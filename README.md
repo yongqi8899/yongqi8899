@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm yongqi</h1>
-<div align="center">I am a fullstack developer and designer based in Berlin, Germany</div>
+<div align="center">I am a [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer)](https://git.io/typing-svg)</div>
 
 
 #### <div align="center">My tools</div>
