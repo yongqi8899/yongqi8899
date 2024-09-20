@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm yongqi</h1>
+<p align="center"><img src="assets/lifelong learner.png" alt="header" /></p>
+<h1 align="center">Yongqi Zhang</h1>
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer" alt="Typing SVG" /></a>
-
+</p>
 
 #### <div align="center">My tools</div>
 
@@ -33,8 +35,6 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" style="margin: 10px"  width="40" height="40"/></a>
 </div>
 
-
-
 </div>
 
 </td><td valign="top" width="33%">
@@ -61,5 +61,15 @@
 #### <div align="center">Connect with me</div>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/yongqi-zhang/" alt="yongqi zhang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yongqi-zhang" height="40"  /></a>
+  <a href="mailto:yz.zhang.de@gmail.com" target="_blank">
+    <img align="center" src="assets/gmail.png" alt="mail" height="50" width="55" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://zhang-yongqi.onrender.com/" target="_blank">
+    <img align="center" src="assets/web.png" alt="website" height="50" width="50" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yongqi-zhang/"  target="blank" >
+    <img align="center" src="assets/linkedin.png" alt="linkedin" height="50" width="50" />
+  </a>
 </div>
