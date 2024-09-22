@@ -61,5 +61,5 @@
 #### <div align="center">Connect with me</div>
 
 <div align="center">
-<a href="mailto:yz.zhang.de@gmail.com" target="_blank"><img align="center" src="assets/gmail.png" alt="mail" height="50" width="55" /></a>&nbsp;&nbsp;&nbsp;<a href="https://zhang-yongqi.onrender.com/" target="_blank"><img align="center" src="assets/web.png" alt="website" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/yongqi-zhang/"  target="blank" ><img align="center" src="assets/linkedin.png" alt="linkedin" height="50" width="50" /></a>
+<a href="mailto:yz.zhang.de@gmail.com" target="_blank"><img align="center" src="assets/gmail.png" alt="mail" height="50" width="55" /></a>&nbsp;&nbsp;&nbsp;<a href="https://zhang-yongqi.onrender.com/" target="_blank"><img align="center" src="assets/web.png" alt="website" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/yongqi-zhang/" target="_blank"><img align="center" src="assets/linkedin.png" alt="linkedin" height="50" width="50" /></a>
 </div>
